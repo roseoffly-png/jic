@@ -1,0 +1,11 @@
+{
+  "app_name": "거래처 방문 CRM Lite",
+  "version": "1.0",
+  "modules": [
+    "upload",
+    "normalization",
+    "visit_db",
+    "dashboard",
+    "csv_export"
+  ]
+}
